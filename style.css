@@ -57,4 +57,5 @@ img{
 }
 .cardapio{
   display: flex;
+  width: 100%;
 }

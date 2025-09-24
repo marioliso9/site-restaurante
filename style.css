@@ -58,4 +58,5 @@ img{
 .cardapio{
   display: flex;
   width: 100%;
+  text-align: center;
 }
